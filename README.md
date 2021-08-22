@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Python REST frameworks , Random Python Stuff**
 
-- 👯 I’m looking to collaborate on [NA](NA)
-
-- 🤝 I’m looking for help with [NA](NA)
-
 - 👨‍💻 All of my projects are available at [https://github.com/j-thepac](https://github.com/j-thepac)
 
 - 📝 I regularly write articles on [http://catchbug.blogspot.com/](http://catchbug.blogspot.com/)
