@@ -37,4 +37,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-thepac&" alt="j-thepac" /></p>
 
-<p><img align="center" src="https://media.giphy.com/media/aITPUCsZkeezoAhH1W/giphy.gif?cid=790b7611153e0d948a26bc2909d2c8f515282c74b1e396f5&rid=giphy.gif&ct=g" alt="j-thepac" /></p>
+![nascar](https://user-images.githubusercontent.com/9648892/130347401-3e7c6a74-9885-4efc-95cf-62258f63fab2.gif)
