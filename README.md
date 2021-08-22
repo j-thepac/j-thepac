@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1Ki4FKnpB9dOt3K8u1iPaYgjRsUN5Dynb/view)](https://j-thepac.github.io)
+[![MasterHead](https://drive.google.com/file/d/1Ki4FKnpB9dOt3K8u1iPaYgjRsUN5Dynb/view?usp=sharing)](https://j-thepac.github.io)
 <h1 align="center">Hi Brogrammer 👋 Welcome to Deepak Git</h1>
 <h3 align="center">Code Basher from India</h3>
 
