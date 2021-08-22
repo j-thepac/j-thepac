@@ -36,4 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j-thepac&show_icons=true&locale=en" alt="j-thepac" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-thepac&" alt="j-thepac" /></p>
-<iframe src="https://giphy.com/embed/aITPUCsZkeezoAhH1W" width="480" height="328" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nascar-racing-2021-motorsports-aITPUCsZkeezoAhH1W">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:68%;position:relative;"><iframe src="https://giphy.com/embed/aITPUCsZkeezoAhH1W" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/nascar-racing-2021-motorsports-aITPUCsZkeezoAhH1W">via GIPHY</a></p>
