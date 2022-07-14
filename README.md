@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/j-thepac](https://github.com/j-thepac)
 
-- 📝 I regularly write articles on [http://catchbug.blogspot.com/](http://catchbug.blogspot.com/)
+- 📝 I regularly write articles on [https://triggerblock.blogspot.com/](https://triggerblock.blogspot.com/)
 
 - 💬 Ask me about **python , Scala ,Spark , Docker , Linux**
 
